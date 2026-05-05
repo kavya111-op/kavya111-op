@@ -7,8 +7,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kavya+Gupta;AI%2FML+Enthusiast;Future+Software+Engineer;Building+Cool+Projects" />
 </h1>
+
 <p align="center">
-  🎓 B.Tech Computer Science @ VIT Bhopal University  
+  🎓 B.Tech Computer Science @ VIT Bhopal University <br>
   💡 Passionate about AI, ML & Problem Solving  
 </p>
 
@@ -38,7 +39,7 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 ## ⚡ Tech Stack
 
-💻 Languages: Python,Java
+💻 Languages: Python, Java
 📊 Libraries: NumPy, Pandas, Scikit-learn
 🛠 Tools: Git, GitHub, VS Code, Jupyter Notebook
 
@@ -50,11 +51,11 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/placement-predictor">
+<a href="https://github.com/kavya111-op/placement-predictor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=placement-predictor&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/fraud-detection">
+<a href="https://github.com/kavya111-op/fraud-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=fraud-detection&theme=tokyonight" />
 </a>
 
@@ -67,8 +68,8 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=kavya111-opE&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya111-op&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kavya111-op&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -81,11 +82,10 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 ## 🐍 Contribution Graph
 
-## 🐍 Contribution Graph  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kavya111-op/kavya111-op/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 <!-- ===== CURRENT FOCUS ===== -->
@@ -115,10 +115,10 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="(your-linkedin)">
+  <a href="https://linkedin.com/in/kavya-gupta-6a2453406?">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:(your-email)">
+  <a href="mailto:kavya.gupta1654@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
