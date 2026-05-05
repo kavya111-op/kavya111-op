@@ -52,15 +52,10 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 <p align="center">
 
 <a href="https://github.com/kavya111-op/Student-Placement-Prediction-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=placement-predictor&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/kavya111-op/fraud-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=fraud-detection&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=Student-Placement-Prediction-System-&theme=tokyonight&cache_seconds=1" />
 </a>
 
 </p>
-
 ---
 
 <!-- ===== GITHUB STATS ===== -->
