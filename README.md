@@ -51,7 +51,7 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 <p align="center">
 
-<a href="https://github.com/kavya111-op/placement-predictor">
+<a href="https://github.com/kavya111-op/Student-Placement-Prediction-System-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=placement-predictor&theme=tokyonight" />
 </a>
 
