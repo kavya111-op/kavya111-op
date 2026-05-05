@@ -51,11 +51,11 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME/placement-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=placement-predictor&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=placement-predictor&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME/fraud-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=fraud-detection&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya111-op&repo=fraud-detection&theme=tokyonight" />
 </a>
 
 </p>
@@ -68,11 +68,11 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kavya111-opE&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya111-op&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -81,10 +81,11 @@ I enjoy turning ideas into real-world projects and continuously improving my tec
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🐍 Contribution Graph  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavya111-op/kavya111-op/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 <!-- ===== CURRENT FOCUS ===== -->
