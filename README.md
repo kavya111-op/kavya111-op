@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  🎓 B.Tech Computer Science @ VIT Bhopal University <br>
+  🎓 B.Tech Computer Science <br>
   💡 Passionate about AI, ML & Problem Solving  
 </p>
 
